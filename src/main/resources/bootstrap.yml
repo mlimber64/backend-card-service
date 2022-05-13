@@ -1,0 +1,8 @@
+server:
+  port: '8082'
+spring:
+  data:
+    mongodb:
+      database: backend-card
+      port: '27017'
+      host: localhost
